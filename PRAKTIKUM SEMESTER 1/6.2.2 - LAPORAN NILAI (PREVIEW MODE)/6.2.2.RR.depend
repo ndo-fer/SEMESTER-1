@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666146424 source:d:\6.2.2.rr\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1666673298 source:d:\gitsource\6.2.2.rr\main.c
+	<stdio.h>
+	<stdlib.h>
+
